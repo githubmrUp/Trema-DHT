@@ -7,3 +7,5 @@
 Повышенной точности - http://iarduino.ru/shop/Sensory-Datchiki/cifrovoy-datchik-temperatury-i-vlazhnosti-vysokoy-tochnosti-trema-modul.html
 
 Библиотека автоматически определяет какой из датчиков подклчюен. Вам нужно только указать номер цифрового порта к которому подключен датчик.
+
+Библиотеку разработал Панькин Павел для iarduino.ru
